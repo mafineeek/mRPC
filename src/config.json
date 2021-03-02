@@ -1,0 +1,10 @@
+{
+    "appID": "https://discord.dev app id",
+    "details": "Details text",
+    "state": "State text",
+    "startTimestamp": "startTimestamp. Enter unix timestamp for specific timestamp or 'now' for current timestamp",
+    "largeImageKey": "largeimagekey",
+    "largeImageText": "large image text",
+    "smallImageKey": "samll image text",
+    "smallImageText": "samm image text"
+}

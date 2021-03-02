@@ -1,0 +1,27 @@
+{
+    "name": "mRPC",
+    "version": "1.0.0",
+    "description": "Discord RPC Client based on Node.JS and Electron",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mafineeek/mRPC.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mafineeek/mRPC/issues"
+    },
+    "homepage": "https://github.com/mafineeek/mRPC#readme",
+    "devDependencies": {
+        "electron": "^12.0.0"
+    },
+    "dependencies": {
+        "discord-rpc": "^3.2.0"
+    }
+}
